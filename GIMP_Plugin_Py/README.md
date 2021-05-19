@@ -3,7 +3,7 @@ Gimp_Plugin_Py
 
 Image experiments using Gimp-Python. <br>
 
-[README-pt-BR](https://github.com/jpenrici/Computer_Graphics/blob/master/GIMP_Plugin_Py/README-pt-BR.md)
+[README-pt-BR](https://github.com/jpenrici/Gimp_experiences/edit/main/GIMP_Plugin_Py/README-pt-BR.md)
 
 Default installation
 ====================
@@ -18,7 +18,7 @@ Default installation
 [7] Check if the plug-in is active for use by accessing the corresponding menu. <br>
 
 **Preferences**
-![GIMP 2.8 - Menu Preferências](https://github.com/jpenrici/Computer_Graphics/blob/master/GIMP_Plugin_Py/Display/linux_gimp_apt-install_preferences_folders_plugin.png)
+![GIMP 2.8 - Menu Preferências](https://github.com/jpenrici/Gimp_experiences/blob/main/GIMP_Plugin_Py/Display/linux_gimp_apt-install_preferences_folders_plugin.png)
 
 
 References
