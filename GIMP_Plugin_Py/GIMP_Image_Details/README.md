@@ -3,7 +3,7 @@ GIMP_Image_Details
 
 In this plug-in the Numpy and Pandas libraries are tested for analysis and data collection of images. <br>
 
-[README-pt-BR](https://github.com/jpenrici/Computer_Graphics/blob/master/GIMP_Plugin_Py/GIMP_Image_Details/README-pt-BR.md) <br>
+[README-pt-BR](https://github.com/jpenrici/Gimp_experiences/blob/main/GIMP_Plugin_Py/GIMP_Image_Details/README-pt-BR.md) <br>
 
 Installation Steps
 ===================
